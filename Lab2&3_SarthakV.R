@@ -103,7 +103,7 @@ is.na(y)
 
 
 
-
+#LAB3 13 Jan 2025
 #Question4
 #q4.1
 vec <- c(4,7,6,5,6,7)
